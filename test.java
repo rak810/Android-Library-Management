@@ -1,6 +1,7 @@
 // Java Program to Illustrate Getter and Setter
 
 // Importing input output classes
+import java.util.*;
 import java.io.*;
 
 // Class 1
